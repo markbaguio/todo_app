@@ -5,7 +5,11 @@ export default {
     fontFamily: {
       sans: ["Montserrat"],
     },
-    extend: {},
+    extend: {
+      colors: {
+        beige: "#f1d4b3",
+      },
+    },
   },
   plugins: [],
 };
